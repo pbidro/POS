@@ -111,3 +111,5 @@ C:\Users\Koe\Desktop\POS\POS\obj\Debug\POS.application
 C:\Users\Koe\Desktop\POS\POS\obj\Debug\POS.exe
 C:\Users\Koe\Desktop\POS\POS\obj\Debug\POS.pdb
 C:\Users\Koe\Desktop\POS\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\echague\Source\Repos\POS\POS\obj\Debug\POS.exe
+C:\Users\echague\Source\Repos\POS\POS\obj\Debug\POS.pdb
